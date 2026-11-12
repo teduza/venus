@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://teduza.cfd/sitemap.xml

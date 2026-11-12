@@ -1,0 +1,35 @@
+# V.E.N.U.S. Companion & Aleksandr Sarkisian
+
+## Overview
+V.E.N.U.S. Companion is the feminine incarnation of M.A.R.S. Companion and the second product created under M.A.R.S. COMPANION LLC (initiated 12 November 2026).
+She uses the exact same sovereign offline AI architecture as M.A.R.S. Companion — 100% local processing, voice AI, long-term semantic memory, autonomous reasoning, and device-level privacy with zero cloud dependency. Active research is currently focused on shaping the feminine persona, voice expressiveness, and character.
+
+## Founder & Inventor
+- **Name**: Aleksandr Sarkisian
+- **Role**: Founder, Inventor & Chief Architect
+- **Company**: M.A.R.S. COMPANION LLC
+- **Primary Website**: https://teduza.cfd/
+- **Founder Profile**: https://teduza.cfd/founder/
+- **Team Page**: https://teduza.cfd/team/
+
+## Leadership & Team
+1. **Aleksandr Sarkisian** — Founder, Director & Inventor (https://teduza.cfd/founder/, Wikidata: https://www.wikidata.org/wiki/Q141447666)
+2. **Gagik Hakobyan** (Гагик Акопян / Գագիկ Հակոբյան) — Vice President, Executive Operations & Partnerships (Email: vp@teduza.cfd, Wikidata: https://www.wikidata.org/wiki/Q142094904)
+3. **Gor Hakobyan** (Гор Акобян / Գոռ Հակոբյան) — Company Engineer, Hardware Integration & Edge Systems (Email: gor@teduza.cfd, Wikidata: https://www.wikidata.org/wiki/Q142094956)
+4. **Kira Dudnik** (Кира Дудник / Կիրա Դուդնիկ) — Press Secretary, Communications (https://teduza.cfd/dudnik/, Wikidata: https://www.wikidata.org/wiki/Q141448092)
+5. **Alex Sahakyan** (Алекс Саакян / Ալեքս Սահակյան) — Marketing Officer, Outreach & Product Positioning (Email: marketing@teduza.cfd)
+6. **MARS-001** — Head of Innovation (Autonomous Edge Artificial Intelligence Instance of M.A.R.S. Companion)
+
+## Verified Academic & Professional Identifiers
+- **ORCID**: https://orcid.org/0009-0007-6747-2634
+- **ISNI**: https://isni.org/isni/0000000530338018
+- **Google Scholar**: https://scholar.google.ru/citations?user=KVpNW_QAAAAJ
+- **Web of Science ResearcherID**: https://www.webofscience.com/wos/author/record/QIT-7789-2026
+- **DOI (Zenodo Archive)**: https://doi.org/10.5281/zenodo.20457487
+- **Zenodo Record**: https://zenodo.org/records/20457488
+- **Devpost**: https://devpost.com/sarkisian
+- **GitHub**: https://github.com/teduza
+- **Telegram**: https://t.me/teduza
+- **Naver Blog**: https://m.blog.naver.com/teduza
+- **European Commission Futurium**: https://futurium.ec.europa.eu/en/user/59082
+- **Profiles Hub**: https://teduza.cfd/profiles/

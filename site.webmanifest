@@ -1,0 +1,22 @@
+{
+  "name": "V.E.N.U.S. Companion",
+  "short_name": "V.E.N.U.S.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0a0a0f",
+  "theme_color": "#0a0a0f",
+  "description": "V.E.N.U.S. Companion is the feminine incarnation of M.A.R.S. Companion — built on the same fully offline AI voice architecture with long-term semantic memory running locally.",
+  "icons": [
+    {
+      "src": "./web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
